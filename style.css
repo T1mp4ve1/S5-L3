@@ -1,0 +1,17 @@
+#circle {
+    position: absolute;
+    top: 70%;
+    left: 50%
+}
+
+#square {
+    position: absolute;
+    top: 50%;
+    left: 50%
+}
+
+#triangle {
+    position: absolute;
+    top: 30%;
+    left: 50%
+}
